@@ -1,3 +1,4 @@
+#example of writing data to a CSV
 
 dic = {"John": "john@example.com", "Mary": "mary@example.com"} #dictionary
 
