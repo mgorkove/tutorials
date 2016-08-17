@@ -7,6 +7,7 @@ import os
 import sys, getopt
 
 #converts pdf, returns its text content as a string
+#from https://www.binpress.com/tutorial/manipulating-pdfs-with-python/167
 def convert(fname, pages=None):
     if not pages:
         pagenums = set()
